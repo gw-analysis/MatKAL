@@ -1,2 +1,2 @@
 # MatKAL
-Matlab-based KAGRA data analysis library
+Matlab-based KAGRA Analysis Library
